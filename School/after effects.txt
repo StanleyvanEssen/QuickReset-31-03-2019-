@@ -1,0 +1,11 @@
+links project, bestanden komen daarin en daar kun je ook alle bestanden zien.
+daaronder de tijdlijn.
+
+in project venster dubbel klik voor importeren van bestanden.
+als je een bestand in de tijdlijn zet komt het ook in de project venster.
+
+afbeelding kan als je het item sleept naar het icon links van de acht verandert de composition in de grote van de afbeelding.
+volgorde van de lagen heeft invloed hoe de composition eruit ziet.
+
+door op "composition"(links bovenin) te klikken en dan "new composition" te klikken kan je een nieuwe composition maken, maar hier kan je zelf de grote van het video/foto bepalen wat je niet kan door gewoon een afbeelding in de tijdlijn te slepen.
+naast het item in tijdlijn staat een pijltje klap die uit voor stuff.

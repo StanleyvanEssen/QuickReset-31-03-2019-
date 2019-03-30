@@ -1,0 +1,11 @@
+project felix	-	2D/3D rendering
+after effects	-	animatie en effecten
+premiere pro	-	videobewerking
+audition CC	-	audio bewerking
+animate CC	-	2D vector animaties
+bridge		-	file explorer/ previews van bestanden
+fuse		-	3D characters in photoshop
+prelude		-	ruwe video montage
+media encoder	-	exporteren/ renderen van videos
+speedgrade	-	color correction/ grading
+
