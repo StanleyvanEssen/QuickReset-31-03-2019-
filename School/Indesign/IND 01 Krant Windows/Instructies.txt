@@ -1,0 +1,90 @@
+ADOBE INDESIGN-AFDRUKINSTRUCTIES VOOR SERVICE PROVIDER
+
+NAAM PUBLICATIE: IND 01 Krant.indd
+
+PAKKETDATUM: 15-4-2018 13:09
+Aanmaakdatum: 15-4-2018
+Wijzigingsdatum: 15-4-2018
+
+CONTACTGEGEVENS
+
+Bedrijfsnaam: 
+Contactpersoon: 
+Adres: 
+
+
+
+
+
+Telefoon: 
+Fax: 
+E-mail: 
+
+SPECIALE INSTRUCTIES EN ANDERE OPMERKINGEN
+
+
+
+
+
+
+Externe plug-ins 0
+Niet-dekkende objecten: Op pagina1
+
+LETTERTYPEN
+4 gebruikte lettertypen; 0 ontbrekend, 0 ingesloten, 0 onvolledig, 0 beveiligd
+
+Lettertypen ingesloten
+- Naam: MinionPro-Bold; Type: OpenType Type 1, Status: OK
+- Naam: MinionPro-BoldIt; Type: OpenType Type 1, Status: OK
+- Naam: MinionPro-It; Type: OpenType Type 1, Status: OK
+- Naam: MinionPro-Regular; Type: OpenType Type 1, Status: OK
+
+
+KLEUREN EN INKTEN
+4 procesinkten; 0 steuninkten
+
+- Naam en type: Proceskleur Cyaan; Hoek: 75,000; Lijnen/inch: 70,000
+- Naam en type: Proceskleur Magenta; Hoek: 15,000; Lijnen/inch: 70,000
+- Naam en type: Proceskleur Geel; Hoek: 0,000; Lijnen/inch: 70,000
+- Naam en type: Proceskleur Zwart; Hoek: 45,000; Lijnen/inch: 70,000
+
+
+KOPPELINGEN EN AFBEELDINGEN
+(Alleen ontbrekende en ingesloten koppelingen)
+Koppelingen en afbeeldingen: 3 gevonden koppelingen; 0 gewijzigd, 0 ontbrekend 0 Niet toegankelijk
+Afbeeldingen: 1 ingesloten, 4 gebruiken RGB-kleurruimte
+
+- Naam: (ingesloten); Type:  RGB; Status: ingesloten
+
+AFDRUKINSTELLINGEN
+PPD: SHARP MX-M365N PPD, (Sharp Algemeen)
+Afdrukken naar: Printer
+Aantal exemplaren: 1
+Lezer spreads: Nee
+Even/oneven pagina's: Beide
+Pagina's: Alles
+Proef: Nee
+Naast elkaar: Geen
+Schalen: 100%, 100%
+Paginapositie: Linksboven
+Lagen afdrukken: Zichtbare & afdrukbare lagen
+Drukkersmarkeringen: Geen
+Afloopgebied: 0 mm, 0 mm, 0 mm, 0 mm
+Kleur: Samengesteld, Kleuren in zwart.
+Overvulmodus: Geen
+Afbeeldingsgegevens verzenden: Geoptimaliseerde subsampling
+Vervanging OPI/DCS-afbeelding: Nee
+Paginaformaat: Tabloid
+Papierafmetingen: 215,9 mm x 279,4 mm
+Stand: Staand
+Negatief: Nee
+Spiegelmodus: Uit
+
+
+BESTANDSPAKKETLIJST
+
+1. IND 01 Krant.indd; type: Adobe InDesign-publicatie; grootte: 0K
+2. MinionPro-Bold.otf; type: Lettertypebestand; grootte: 213K
+3. MinionPro-BoldIt.otf; type: Lettertypebestand; grootte: 252K
+4. MinionPro-It.otf; type: Lettertypebestand; grootte: 253K
+5. MinionPro-Regular.otf; type: Lettertypebestand; grootte: 213K

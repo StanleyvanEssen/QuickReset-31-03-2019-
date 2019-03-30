@@ -1,0 +1,37 @@
+- Intro:
+	o       Wie ben ik
+	o       Ik als Game Developer
+	o       Overall concept van spel
+- GDD
+	o       Features van je spel: onderwerp, story, Unique Selling points, Game mechanics?
+- Style Guide (Laat een paar  dingen zien, vertel waarom je deze keuzes hebt gemaakt)
+	o       Main Character
+	o       Environment
+	o       Sfeer van je spel
+
+
+
+- Intro:
+	*	Stanley van Essen
+		16 jaar
+		Kom uit Hoogeveen
+		4 jaar havo gedaan maar ben blijven zitten in het vierde jaar dus heb ik maar besloten om mbo te gaan doen.
+		Hobbies en waarom doe ik deze opleiding?	
+	*	Onderwerp: Space
+		Story: Sir Froggington the Third (a.k.a Ralph) (shoutouts naar Jelmer) moet 5 vijf stukken van zijn ruimteschip oprapen zodat hij z'n ruimteschip weer kan repareren.
+		Unique sellig points:
+		3D, camera volgt Sir Froggington the Third vanuit een 30/45 graden hoek.
+		Het is een frogger game in de ruimte.
+		Zelfde gameplay als frogger maar met een ander doel.
+		Game mechanics: Basically gewoon frogger maar inplaats dat je punten krijgt als je op een nieuwe tile stapt krijg je punten voor hoe snel je naar het einde komt.
+	*	Basic frogger game maar centered in de ruimte met als hoofd karakter een alien gemengd met een kikker die stukken van z'n ruimteschip moet oprapen zodat hij z'n ruimteschip kan repareren.
+- GDD
+	*	Zie "space frogger summary 2.0"
+
+-Waarom past dit bij mij?
+	*	Well de ruimte is niet echt een onderwerp gericht naar mij (obviously) maar ik hou gewoon van de mysterie en stuff van de ruimte en hoe het eruit ziet dus daarom heb ik ervoor gekozen.
+
+- Style Guide (Laat een paar  dingen zien, vertel waarom je deze keuzes hebt gemaakt)
+	*	Sir Froggington the Third (a.k.a Ralph).
+	*	Space.
+	*	Donker maar wel kleurrijk, inspiratie futurama en low poly stuff.
